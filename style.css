@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+/* .header > h2{
+    text-align: center;
+    font-size: 35px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    margin-top: 30px;
+} */
+.header>a {
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    /* background-color: rgba(0, 0, 255, 0.364); */
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 28px;
+    height: 40px;
+    margin-top: 20px;
+    /* border: 1px solid black; */
+    width: 50%;
+    margin-left: 30px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    color: rgba(0, 0, 0, 0.628);
+    font-weight: bold;
+}
